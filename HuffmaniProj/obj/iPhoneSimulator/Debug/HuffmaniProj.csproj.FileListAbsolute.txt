@@ -1,0 +1,14 @@
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/bin/iPhoneSimulator/Debug/HuffmaniProj.exe
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/bin/iPhoneSimulator/Debug/HuffmaniProj.pdb
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/HuffmaniProj.csprojAssemblyReference.cache
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/HuffmaniProj.csproj.CopyComplete
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/HuffmaniProj.exe
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/HuffmaniProj.pdb
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/actool/_PartialAppManifest.items
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/actool/_BundleResourceWithLogicalName.items
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/coremlc/_PartialAppManifest.items
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/taimurasad/Projects/HuffmaniProj/HuffmaniProj/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.2.2/optimized/

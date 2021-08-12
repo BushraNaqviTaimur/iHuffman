@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8800F7D9-9DE3-4393-9D08-B04A5426B6D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.iHuffman automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA13CFF1-761E-419D-A78A-329D6557EC44" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HuffmaniProj/HuffmanTree.cs">
+    <Files>
+      <File FileName="HuffmaniProj/BinaryTreeNode.cs" Line="10" Column="24" />
+      <File FileName="HuffmaniProj/HuffmanTree.cs" Line="1" Column="2" />
+      <File FileName="HuffmaniProj/PriorityQueue.cs" />
+      <File FileName="HuffmaniProj/Main.storyboard" />
+      <File FileName="HuffmaniProj/AppDelegate.cs" />
+      <File FileName="HuffmaniProj/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HuffmaniProj" expanded="True">
+            <Node name="iHuffman" expanded="True">
+              <Node name="HuffmanTree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
